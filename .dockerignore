@@ -1,0 +1,14 @@
+.git
+.gitignore
+
+backend/.venv
+backend/.env
+backend/__pycache__
+backend/.pytest_cache
+backend/.ruff_cache
+
+__pycache__
+*.py[cod]
+*.log
+
+README.md
