@@ -7,6 +7,11 @@
 pip install uv
 ```
 
+### Initialise project with uv
+```bash
+uv init
+```
+
 ### Activate virtual environment
 **Windows:**
 ```bash
